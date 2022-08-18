@@ -1,0 +1,9 @@
+{
+  "name": "Phantom",
+  "description": "Join The Phantom Thieves of Hearts with this sound pack based on the UI from Persona 5. Complete your style with the Phantom theme on CSS Loader.",
+  "author": "EMERALD0874",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": false,
+  "ignore": ["bumper_end.wav"]
+}
