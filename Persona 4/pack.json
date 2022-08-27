@@ -1,0 +1,17 @@
+{
+  "name": "Persona 4",
+  "description": "Join SEES and The Investigation Team with this sound pack based on the UI from Persona 3 and Persona 4.",
+  "author": "EMERALD0874",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": false,
+  "ignore": [
+    "deck_ui_slider_up.wav",
+    "deck_ui_slider_down.wav",
+    "deck_ui_typing.wav",
+    "steam_at_mention.m4a",
+    "steam_chatroom_notification.m4a",
+    "ui_steam_smoother_friend_join.m4a",
+    "ui_steam_smoother_friend_online.m4a"
+  ]
+}
