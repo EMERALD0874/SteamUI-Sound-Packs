@@ -2,7 +2,7 @@
   "name": "Team Fortress 2",
   "description": "Replaces all sounds with ones from Team Fortress 2.",
   "author": "EMERALD0874",
-  "version": "v1.0",
+  "version": "v1.1",
   "manifest_version": 1,
   "music": false,
   "ignore": [
